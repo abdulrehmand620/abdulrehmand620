@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad AbdulRehman</h1>
 <h3 align="center">I am full stack Python developer is the key to unlocking your digital potential. With expertise in both front-end and back-end development, as full stack Python developer can create robust, scalable and user-friendly web applications that meet your business needs.</h3>
-<img align="right" width=400 alt="coding" src="coder.gif"/>
+<img align="right" width=400 alt="coding" src="file:///C:/Users/Engr%20AbdulRehman/Desktop/coder.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman" /> </p>
 
 - 🔭 I’m currently working on **Toll Management System**
