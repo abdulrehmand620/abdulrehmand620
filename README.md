@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Django-Developer-green?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-brightgreen?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/github/followers/abdulrehman?style=social" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
 </p>
 
 ---
