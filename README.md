@@ -1,100 +1,120 @@
 ![Header](https://your-banner-image-url)
 
-<h1 align="center">Hi 👋, I'm Muhammad AbdulRehman</h1>
-<h3 align="center">A Full Stack Python Developer unlocking digital potential through powerful web applications and computer vision solutions.</h3>
+<h1 align="center">Muhammad AbdulRehman</h1>
+<h3 align="center">Full Stack Python Developer | AI Expert | Web Solutions Architect</h3>
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Pro-yellow?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Django-Developer-green?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/React-Learner-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-brightgreen?style=flat&logo=scikit-learn" />
   <img src="https://img.shields.io/github/followers/abdulrehman?style=social" />
 </p>
 
-<img align="right" width=400 alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+---
+
+## About Me
+I am a **Full Stack Developer** with a deep passion for **AI and Machine Learning**, specializing in building efficient and scalable web applications and innovative AI solutions. My expertise spans across:
+- Web Development (Back-End: Python/Django, Front-End: React.js)
+- AI/ML for Computer Vision and NLP
+- Transfer Learning and Deep Learning Model Development
 
 ---
 
-## 🔭 Current Projects
-- **Toll Management System** 🚦
-- **Traffic Violation System** 🚗
+## 🚀 Current Projects
+
+- **Toll Management System** – Efficient traffic and toll management solution with AI-driven optimization.
+- **Traffic Violation System** – Real-time violation detection using computer vision techniques.
 
 ---
 
-## 🌱 Currently Learning
-- Full Stack Development
-- React.js
-- Deep Learning Models
+## 📈 Professional Skills
+- **Languages**: Python, JavaScript, HTML5/CSS3, SQL
+- **Frameworks**: Django, Flask, React.js
+- **AI/ML Tools**: TensorFlow, Keras, Scikit-learn, YOLO
+- **Cloud**: AWS, Heroku, Google Cloud
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
+- **DevOps**: Docker, Kubernetes
 
 ---
 
-## 👯 Looking for Collaboration
-- Open to collaborations on **Computer Vision Projects**.
-  
----
+## 📚 Learning and Development
 
-## 🤝 Looking for Help
-- If you're into **Computer Vision, Web Development, Python**, and more, let’s connect!
+- Currently expanding my knowledge in **React.js** for modern front-end development.
+- Exploring advanced **AI models** for real-time applications and scalability.
 
 ---
 
-## 📫 Reach Me
-- **Email**: [abdulrehman.d620@gmail.com](mailto:abdulrehman.d620@gmail.com)
+## 👨‍💻 Featured Projects
+
+### 1. **[Road Anomaly Detection Using Voting Ensemble](https://github.com/abdulrehman/road-anomaly)**
+   - A comprehensive solution using **MobileNet** and **ResNet50** for detecting road anomalies such as accidents, car fires, and fights.
+
+### 2. **[Peptic Ulcer Detection Using Multi-Model Deep Learning](https://github.com/abdulrehman/ulcer-detection)**
+   - An AI-driven solution using **EfficientNetB7** and **Xception** for accurate diagnosis of digestive tract disorders from endoscopic images.
 
 ---
 
-## 💬 Ask Me About
-- Web Development (Python, Java, C#)
-- Computer Vision
-- Machine Learning Models
+## 🏆 Achievements
 
----
+- **Published Three Research Papers** in Elsevier Journal on topics including:
+  - Brain Tumor Detection using CNN Models
+  - Peptic Ulcer Detection using Endoscopic Images
+  - Lumpy Skin Disease Detection using YOLO Models
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img src="https://img.icons8.com/color/48/000000/django.png" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img src="https://img.icons8.com/color/48/000000/flask.png" />
-  <img src="https://img.icons8.com/color/48/000000/android.png" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" />
-</p>
-
----
-
-## 🏆 GitHub Stats
-
+- **GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman&show_icons=true&theme=graywhite" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman&theme=graywhite" width="48%" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrehmand620/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/mabdulrehman.liaquatali?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  <a href="https://github.com/abdulrehman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:abdulrehman.d620@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🔥 My Favorite Projects
-- **[Project 1: Road Anomaly Detection](https://github.com/abdulrehman/road-anomaly)**
-  > A one-stage deep learning approach for detecting road anomalies in real-time.
-- **[Project 2: Peptic Ulcer Detection](https://github.com/abdulrehman/ulcer-detection)**
-  > A multi-model ensemble approach for automated diagnosis of digestive tract disorders.
+### 📧 Contact Information
+- **Email**: [abdulrehman.d620@gmail.com](mailto:abdulrehman.d620@gmail.com)
+- **LinkedIn**: [linkedin.com/in/abdulrehmand620](https://www.linkedin.com/in/abdulrehmand620/)
 
 ---
 
-### ⚡ Fun Fact
-- I love to develop real-time systems using AI!
+## ⚙️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" />
+</p>
+
+---
+
+## 🎯 Career Goals
+
+- **Short-Term**: Enhance skills in full-stack development with a focus on AI-powered web applications.
+- **Long-Term**: Lead AI projects that bridge the gap between research and real-world implementation for smarter, scalable, and innovative solutions.
+
+---
+
+## 🌟 Fun Fact
+I enjoy working on real-time systems, and I’m always eager to collaborate with like-minded professionals in the AI and web development space.
+
