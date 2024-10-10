@@ -1,6 +1,6 @@
 
-
-<h1 align="center">Muhammad AbdulRehman</h1>
+---
+<h1 align="center"># 👋 Hi there! I'm Muhammad AbdulRehman</h1>
 <h3 align="center">Full Stack Python Developer | AI Expert | Web Solutions Architect</h3>
 
 ---
