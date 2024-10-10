@@ -1,4 +1,4 @@
-![Header](https://your-banner-image-url)
+
 
 <h1 align="center">Muhammad AbdulRehman</h1>
 <h3 align="center">Full Stack Python Developer | AI Expert | Web Solutions Architect</h3>
@@ -102,8 +102,8 @@ I am a **Full Stack Developer** with a deep passion for **AI and Machine Learnin
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" />
+  <img src="[https://img.icons8.com/color/48/000000/aws.png](https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png)" alt="AWS" />
 </p>
 
 ---
