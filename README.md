@@ -49,11 +49,53 @@ I am a **Full Stack Developer** with a deep passion for **AI and Machine Learnin
 
 ## 👨‍💻 Featured Projects
 
-### 1. **[Road Anomaly Detection Using Voting Ensemble](https://github.com/abdulrehman/road-anomaly)**
-   - A comprehensive solution using **MobileNet** and **ResNet50** for detecting road anomalies such as accidents, car fires, and fights.
+Take a look at some of my most exciting and impactful projects:
 
-### 2. **[Peptic Ulcer Detection Using Multi-Model Deep Learning](https://github.com/abdulrehman/ulcer-detection)**
-   - An AI-driven solution using **EfficientNetB7** and **Xception** for accurate diagnosis of digestive tract disorders from endoscopic images.
+### 1. [Real-Time Road Anomaly Detection with Yolo](https://github.com/yourusername/road-anomaly-detection)
+**Description**: A one-stage deep learning approach for detecting road anomalies like accidents, car fires, and other suspicious activities in real time.
+- **Technologies**: YOLO, MobileNet, ResNet50, TensorFlow, OpenCV, Python
+- **Features**: Real-time detection, high accuracy, voting ensemble technique
+
+---
+
+### 2. [Enhancing Veterinary Diagnosis: YOLO-Based Detection of Lumpy Skin Disease](https://github.com/yourusername/lumpy-skin-detection)
+**Description**: An automated system for detecting Lumpy Skin Disease in cattle, utilizing YOLOv5, YOLOv8, and YOLOv9.
+- **Technologies**: YOLOv5, YOLOv8, YOLOv9, TensorFlow, OpenCV
+- **Features**: High detection accuracy, real-time application for disease management
+
+---
+
+### 3. [Automated Peptic Ulcer and Other Digestive Tract Disorders Using Endoscopic Images](https://github.com/yourusername/peptic-ulcer-detection)
+**Description**: A multi-model ensemble deep learning approach for accurately classifying peptic ulcers and digestive tract disorders.
+- **Technologies**: EfficientNetB7, Xception, MobileNet, Python, TensorFlow
+- **Features**: 99% accuracy, multi-model ensemble approach
+
+---
+
+### 4. [Suspicious Activity Detection (SAD) Using YOLO](https://github.com/yourusername/suspicious-activity-detection)
+**Description**: An advanced YOLO-based system designed to detect suspicious activities such as theft and violence.
+- **Technologies**: YOLO, Python, TensorFlow, OpenCV
+- **Features**: High precision detection, real-time monitoring capabilities
+
+---
+
+### 5. [Brain Tumor Detection and Classification](https://github.com/yourusername/brain-tumor-detection)
+**Description**: A deep learning model for classifying different types of brain tumors or identifying non-tumor cases.
+- **Technologies**: VGG16, DenseNet201, MobileNet, Python, TensorFlow
+- **Features**: Achieves 97% accuracy, efficient and reliable classification system
+
+---
+
+### 6. [Toll Management System](https://github.com/yourusername/toll-management-system)
+**Description**: A smart toll management system to streamline toll collection processes and enhance real-time monitoring.
+- **Technologies**: Python, Django, React, PostgreSQL
+- **Features**: Real-time toll tracking, user-friendly dashboard
+
+---
+
+
+
+
 
 ---
 
