@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Django-Developer-green?style=flat&logo=django" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Advanced-brightgreen?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/github/followers/abdulrehman?style=social" />
 </p>
 
 ---
@@ -102,8 +102,8 @@ I am a **Full Stack Developer** with a deep passion for **AI and Machine Learnin
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" />
-  <img src="[https://img.icons8.com/color/48/000000/aws.png](https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png)" alt="AWS" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
 </p>
 
 ---
